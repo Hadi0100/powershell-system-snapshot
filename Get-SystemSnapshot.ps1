@@ -8,7 +8,7 @@
     and a timestamped text file in the user's Documents\SystemSnapshots folder.
 
 .NOTES
-    Author: Your Name
+    Author: Hadi Abdelaal
     Date:   2025-12-09
 #>
 
